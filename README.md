@@ -6,4 +6,4 @@ The purpose of the game is each player needs to pass the ball beyond the enemy p
 
 The player that earns the most points wins the game :)
 
-![SCREENSHOT](C:\Users\guymf\Desktop\VS Code Python\PongArcadeGame\pongScreenshot.png)
+![pongScreenshot](https://user-images.githubusercontent.com/80902560/193580896-03c28c2c-c6c7-4467-bf53-db829f5eb4a7.png)
